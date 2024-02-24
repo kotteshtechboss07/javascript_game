@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://kotteshtechboss07.github.io/javascript_game/diceGame.html",
+            "request": "launch",
+            "url": "https://kotteshtechboss07.github.io/javascript_game/diceGame.html"
+        }
+    ]
+}
